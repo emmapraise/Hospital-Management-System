@@ -1,0 +1,13 @@
+body{
+	font-family: 'Source Sans Pro', sans-serif;
+}
+.nana{
+	background-color: grey;
+	height: 50px;
+}
+.nana li:hover{
+	background-color: red;
+}
+.nana li a{
+	color: white;
+}
